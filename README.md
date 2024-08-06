@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bdul Yups that's my name</h1>
+<h1 align="center">Hi 👋, I'm Bdul Yups that's my nickname</h1>
 <h3 align="center">I'm still a student👨‍💻 and i'm learning HTML, Python, CSS, and JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahrpl&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahrpl" /> </p>
