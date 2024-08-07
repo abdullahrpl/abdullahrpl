@@ -6,6 +6,7 @@
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahrpl&label=Visitors&color=2eff7e&style=flat" alt="abdullahrpl" width="200" /> </p>
 </br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahrpl&show_icons=true&theme=highcontrast&locale=en" alt="abdullahrpl" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahrpl" alt="abdullahrpl" /></a> </p>
 
 <h3 align="left">Connect with me on instagram:</h3>
