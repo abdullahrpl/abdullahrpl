@@ -1,4 +1,4 @@
-# Hi... I'm Bdul  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi... I'm Bdul  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <h3 align="left">I'm still a student  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  and i'm learning HTML, Python, CSS, and JavaScript</h3>
 
