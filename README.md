@@ -2,6 +2,10 @@
 
 <h3 align="left">I'm still a student  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  and i'm learning HTML, Python, CSS, and JavaScript</h3>
 
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%5B99C24&center=true&width=280&height=50">
+</p>
+
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahrpl&label=Visitors&color=2eff7e&style=flat" alt="abdullahrpl" width="150" /> </p>
 </br>
