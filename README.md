@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahrpl&label=Visitors&color=2eff7e&style=flat" alt="abdullahrpl" width="150" /> </p>
 </br>
 
-[![Bdul's github stats](https://bad-apple-github-readme.vercel.app/api?username=abdullahrpl&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Bdul's github stats](https://github-readme-stats.vercel.app/api?username=abdullahrpl&show_icons=true&theme=blue-green&locale=en)](#)
 </br>
 
 [![Bdul's current streak](https://streak-stats.demolab.com/?user=abdullahrpl&count_private=true&theme=blue-green&title_color=00b3ff)](#)
